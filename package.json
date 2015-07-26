@@ -1,0 +1,30 @@
+{
+  "name": "basehttp",
+  "version": "11.0.0",
+  "description": "A basic HTTP server library.",
+  "author": "Jon Cody",
+  "keywords": [
+    "base",
+    "http"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joncody1001/basehttp.git"
+  },
+  "dependencies": {
+    "cookies": "^0.5.0",
+    "multiparty": "^4.1.2",
+    "node-static": "^0.7.6",
+    "swig": "^1.4.2"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/joncody1001/basehttp/issues"
+  },
+  "homepage": "https://github.com/joncody1001/basehttp",
+  "main": "basehttp.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
